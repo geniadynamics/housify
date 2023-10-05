@@ -1,0 +1,9 @@
+[submodule "housify-web-server"]
+	path = housify-web-server
+	url = git@github.com:geniadynamics/housify-web-server.git
+[submodule "housify-ai-server"]
+	path = housify-ai-server
+	url = git@github.com:geniadynamics/housify-ai-server.git
+[submodule "housify-mobile"]
+	path = housify-mobile
+	url = git@github.com:geniadynamics/housify-mobile.git
