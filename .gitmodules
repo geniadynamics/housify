@@ -8,5 +8,5 @@
 	path = housify-mobile
 	url = git@github.com:geniadynamics/housify-mobile.git
 [submodule "housify-project"]
-    path = housify-project
-    url = git@github.com:geniadynamics/housify-project.git
+	path = housify-project
+	url = git@github.com:geniadynamics/housify-project.git
