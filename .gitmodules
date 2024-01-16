@@ -10,3 +10,6 @@
 [submodule "housify-project"]
 	path = housify-project
 	url = git@github.com:geniadynamics/housify-project.git
+[submodule "housify-soap-service"]
+	path = housify-soap-service
+	url = git@github.com:geniadynamics/housify-soap-service.git
